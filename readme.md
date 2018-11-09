@@ -19,7 +19,7 @@
 
 ## 注意
 以下所有语料都已经统一下载好，存在 https://pan.baidu.com/s/1szmNZQrwh9y994uO8DFL_A  提取码：f2ex 中。给出的语料原链接是为了说明该语料的原始出处是在哪里
-
+链接: https://pan.baidu.com/s/1XC4AA0eq7s8AytHhFVOygg 提取码: uxtb 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 # 环境
 python3
